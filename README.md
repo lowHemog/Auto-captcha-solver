@@ -1,6 +1,4 @@
 # Autocaptcha solver
-![Stars](https://img.shields.io/github/stars/lowHemog/Auto-captcha-solver?style=flat)
-![License](https://img.shields.io/github/license/lowHemog/Auto-captcha-solver?style=flat)
 ![Python](https://img.shields.io/badge/python-3.x-blue?style=flat&logo=python)
 ![C](https://img.shields.io/badge/C-ISO%2F%20IEC%209899-blue?style=flat&logo=c)
 ## Auto solve:
